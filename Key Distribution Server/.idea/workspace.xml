@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Key Distribution Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../DistributionServerApp/APP_SETTING.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../DistributionServerApp/APP_SETTING.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DistributionServerApp/Key Distribution Server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../DistributionServerApp/Key Distribution Server.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DistributionServerApp/User.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DistributionServerApp/User.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Key_Distribution_Server_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Key_Distribution_Server_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ini4j_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ini4j_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_SETTING.ini" beforeDir="false" afterPath="$PROJECT_DIR$/APP_SETTING.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Key Distribution Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Key Distribution Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.txt" beforeDir="false" afterPath="$PROJECT_DIR$/User.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Key Distribution Server/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/In/InClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/In/InThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/AppSetting$keys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/AppSetting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/Cryptography.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/Helper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/main/Validation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Key Distribution Server/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/In/InClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/In/InClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/In/InThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/In/InThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/AppSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/AppSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/Cryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/Cryptography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/ServerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/ServerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/main/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/main/Validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/SCAFTIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/SCAFTIA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/artifacts/SCAFTIA_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/artifacts/SCAFTIA_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/libraries/ini4j_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/libraries/ini4j_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/APP_SETTING.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/APP_SETTING.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/Neighbors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/Neighbors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/SCAFTIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/SCAFTIA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/ScaftiIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/ScaftiIcon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/Server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/Server.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/META-INF/SCAFTIA.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/META-INF/SCAFTIA.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InChallengeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InChallengeClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/In/InThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadInvalidMessages.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadInvalidMessages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadToServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Out/OutThreadToServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/AppSetting$keys.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/AppSetting$keys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/AppSetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/AppSetting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Cryptography.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Cryptography.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Neighbor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Neighbor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/ScaftMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/ScaftMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/main/Validation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/out/production/SCAFTIA/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InChallengeClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InChallengeClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/In/InThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadInvalidMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadInvalidMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadToServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Out/OutThreadToServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/AppSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/AppSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Cryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Cryptography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Neighbor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Neighbor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/ScaftMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/ScaftMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/main/Validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SCAFTIA/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../SCAFTIA/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scaftiaapp/APP_SETTING.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../Scaftiaapp/APP_SETTING.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scaftiaapp/Neighbors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Scaftiaapp/Neighbors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scaftiaapp/SCAFTIA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Scaftiaapp/SCAFTIA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scaftiaapp/ScaftiIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Scaftiaapp/ScaftiIcon.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1dx45418nmroE7nJmqJYzFzT8mr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.14749263" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Key Distribution Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1594992989326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594992989326" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593977532440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593977532440" />
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593442244125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593442244125" />
+    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593365300835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1593365300835" />
+    <state x="49" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593365547293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="49" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593365547293" />
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1593961655260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593961655260" />
+    <state width="1899" height="116" key="GridCell.Tab.0.bottom" timestamp="1595163670677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595163670677" />
+    <state width="1899" height="116" key="GridCell.Tab.0.center" timestamp="1595163670677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595163670677" />
+    <state width="1899" height="116" key="GridCell.Tab.0.left" timestamp="1595163670677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595163670677" />
+    <state width="1899" height="116" key="GridCell.Tab.0.right" timestamp="1595163670677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595163670677" />
+    <state width="936" height="416" key="GridCell.Tab.1.bottom" timestamp="1593690589976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="416" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593690589976" />
+    <state width="936" height="416" key="GridCell.Tab.1.center" timestamp="1593690589976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="416" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593690589976" />
+    <state width="936" height="416" key="GridCell.Tab.1.left" timestamp="1593690589976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="416" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593690589976" />
+    <state width="936" height="416" key="GridCell.Tab.1.right" timestamp="1593690589976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="416" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593690589976" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595069052393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595069052393" />
+    <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1593688430234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="487" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1593688430234" />
+    <state x="912" y="304" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593517880907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="912" y="304" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1593517880907" />
+    <state x="210" y="270" key="extract.method.dialog" timestamp="1593975156796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="270" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593975156796" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594299008362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594299008362" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/main/User.java</url>
+          <line>98</line>
+          <properties class="sample.main.User" method="getUserPassword">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/In/InClientHandler.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

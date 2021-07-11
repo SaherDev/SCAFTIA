@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="528.0" prefWidth="856.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <TextArea fx:id="taChat" layoutX="22.0" layoutY="14.0" prefHeight="485.0" prefWidth="581.0" text="&#10;" />
+
+        <TitledPane animated="false" layoutX="621.0" layoutY="152.0" prefHeight="170.0" prefWidth="212.0" text="Users">
+            <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="153.0" prefWidth="210.0">
+                    <children>
+                        <TextField fx:id="txUserName" layoutX="17.0" layoutY="15.0" prefHeight="25.0" prefWidth="176.0" promptText="name" />
+                        <TextField fx:id="tfUserPassword" layoutX="16.0" layoutY="51.0" prefHeight="25.0" prefWidth="178.0" promptText="password" />
+                        <Button fx:id="btnAddUser" layoutX="17.0" layoutY="95.0" mnemonicParsing="false" onAction="#addUser" prefHeight="20.0" prefWidth="178.0" text="add user" />
+                    </children></AnchorPane>
+            </content>
+        </TitledPane>
+        <TitledPane animated="false" layoutX="621.0" layoutY="14.0" prefHeight="125.0" prefWidth="212.0" text="setting">
+            <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="99.0" prefWidth="166.0">
+                    <children>
+                        <Button fx:id="btnStart" layoutX="67.0" layoutY="14.0" mnemonicParsing="false" onAction="#strat" prefHeight="25.0" prefWidth="85.0" text="start" />
+                        <TextField fx:id="tfPort" layoutX="68.0" layoutY="54.0" prefHeight="25.0" prefWidth="86.0" promptText="port" />
+                    </children></AnchorPane>
+            </content>
+        </TitledPane>
+      <TitledPane animated="false" layoutX="621.0" layoutY="329.0" prefHeight="138.0" prefWidth="212.0" text="invalid responce">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <ComboBox fx:id="cbInvalidMessages" layoutX="14.0" layoutY="23.0" prefHeight="25.0" prefWidth="179.0" />
+                  <Button fx:id="btnInvalidMsgs" layoutX="14.0" layoutY="57.0" mnemonicParsing="false" onAction="#enableIvalidMessage" prefHeight="25.0" prefWidth="181.0" text="enable" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+    </children>
+</Pane>

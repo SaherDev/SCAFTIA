@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SCAFTIA:jar">
+    <output-path>$PROJECT_DIR$/../Scaftiaapp</output-path>
+    <root id="archive" name="SCAFTIA.jar">
+      <element id="module-output" name="SCAFTIA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../libraries/ini4j-0.5.4/ini4j-0.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../libraries/ini4j-0.5.4/ini4j-0.5.4-jdk14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

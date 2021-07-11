@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="617.0" prefWidth="856.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TitledPane animated="false" layoutX="6.0" layoutY="7.0" prefHeight="271.0" prefWidth="178.0" text="Online">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="328.0" prefWidth="176.0">
+               <children>
+                  <ListView fx:id="lvOnlineNeighbors" layoutX="5.0" layoutY="9.0" prefHeight="229.0" prefWidth="167.0" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <Button fx:id="btnSendFile" layoutX="569.0" layoutY="554.0" mnemonicParsing="false" onAction="#sendFile" prefHeight="45.0" prefWidth="62.0" text="send file" />
+      <TextArea fx:id="taChat" layoutX="194.0" layoutY="14.0" prefHeight="527.0" prefWidth="440.0" text="&#10;" />
+      <TextArea fx:id="taMessage" layoutX="15.0" layoutY="553.0" onKeyPressed="#sendMessage" prefHeight="45.0" prefWidth="543.0" />
+
+      <TitledPane animated="false" layoutX="642.0" layoutY="280.0" prefHeight="324.0" prefWidth="202.0" text="neighbors">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="296.0" prefWidth="200.0">
+               <children>
+                  <TextField fx:id="txNeighborIp" layoutX="7.0" layoutY="14.0" prefHeight="25.0" prefWidth="113.0" promptText="ip" />
+                  <TextField fx:id="tfNeighborPort" layoutX="129.0" layoutY="14.0" prefHeight="25.0" prefWidth="62.0" promptText="port" />
+                  <Button fx:id="btnAddNeighbor" layoutX="11.0" layoutY="47.0" mnemonicParsing="false" onAction="#addNeighbor" prefHeight="20.0" prefWidth="178.0" text="add neighbor" />
+                  <ListView fx:id="lvnNighbousList" layoutX="12.0" layoutY="83.0" prefHeight="161.0" prefWidth="178.0" />
+                  <Button fx:id="btnRemove" layoutX="12.0" layoutY="256.0" mnemonicParsing="false" onAction="#RemoveNeighbor" prefHeight="25.0" prefWidth="178.0" text="remove" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" layoutX="642.0" layoutY="7.0" prefHeight="259.0" prefWidth="202.0" text="setting">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="211.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btnConnect" layoutX="119.0" layoutY="12.0" mnemonicParsing="false" onAction="#connect" prefHeight="25.0" prefWidth="74.0" text="connect" />
+                  <TextField fx:id="tfUserName" layoutX="7.0" layoutY="11.0" prefHeight="25.0" prefWidth="103.0" promptText="username" />
+                  <Button fx:id="btnEdit" layoutX="11.0" layoutY="191.0" mnemonicParsing="false" onAction="#EditSetting" prefHeight="25.0" prefWidth="93.0" text="edit" />
+                  <PasswordField fx:id="tfSharedPassword" layoutX="9.0" layoutY="47.0" prefHeight="25.0" prefWidth="114.0" promptText="shared pass" />
+                  <TextField fx:id="tfPort" layoutX="139.0" layoutY="48.0" prefHeight="25.0" prefWidth="47.0" promptText="port" />
+                  <Button fx:id="btnSave" layoutX="114.0" layoutY="192.0" mnemonicParsing="false" onAction="#saveSetting" prefHeight="25.0" prefWidth="76.0" text="Save" />
+                  <PasswordField fx:id="tfMacPassword" layoutX="11.0" layoutY="85.0" prefHeight="25.0" prefWidth="178.0" promptText="MAC pass" />
+                  <TextField fx:id="tfServerIp" layoutX="10.0" layoutY="155.0" prefHeight="25.0" prefWidth="110.0" promptText="server ip" />
+                  <TextField fx:id="tfServerPort" layoutX="139.0" layoutY="155.0" prefHeight="25.0" prefWidth="47.0" promptText="s port" />
+                  <PasswordField fx:id="tfNonSharedPassword" layoutX="11.0" layoutY="120.0" prefHeight="25.0" prefWidth="178.0" promptText="Non shared pass" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" layoutX="6.0" layoutY="284.0" prefHeight="126.0" prefWidth="178.0" text="Invalid Messages">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="115.0" prefWidth="176.0">
+               <children>
+                  <ComboBox fx:id="cbInvalidMessages" layoutX="13.0" layoutY="17.0" prefHeight="25.0" prefWidth="150.0" />
+                  <Button fx:id="btnSendIvalidMessage" layoutX="15.0" layoutY="61.0" mnemonicParsing="false" onAction="#SendIvalidMessage" prefHeight="25.0" prefWidth="148.0" text="send" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" layoutX="7.0" layoutY="419.0" prefHeight="119.0" prefWidth="178.0" text="custome Invailed Message">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="95.0" prefWidth="169.0">
+               <children>
+                  <ComboBox fx:id="cbCstmInvalidMessages" layoutX="13.0" layoutY="14.0" prefWidth="150.0" />
+                  <Button fx:id="btnSendCustomeIvalidMessage" layoutX="118.0" layoutY="54.0" mnemonicParsing="false" onAction="#SendCustomeIvalidMessage" prefHeight="25.0" prefWidth="46.0" text="send" />
+                  <TextField fx:id="tfCustomeFieldString" layoutX="15.0" layoutY="54.0" prefHeight="25.0" prefWidth="95.0" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+   </children>
+</Pane>
