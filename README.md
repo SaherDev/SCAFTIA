@@ -1,5 +1,10 @@
 # Secure Chat and File Transfer with Integrity and authentication (with attacks)
 
+
+<img src="img/Screen Shot 2021-07-11 at 17.10.10.png">
+
+<img src="img/Screen Shot 2021-07-11 at 17.10.30.png">
+
 #### Scaftia.jar (in Scaftiaapp folder)
 - double click Scaftia.jar  
 - conect : click connect (the text changed to disconnect), need name and port.  
